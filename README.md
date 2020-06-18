@@ -8,4 +8,4 @@ This is an copy from [Stripe-samples/accept-a-card-payment](https://github.com/s
 
 
 **Author**
-tiffnapolitano
+[tiffnapolitano](https://drive.google.com/file/d/1iMprkFn_X8LThSG_rqnxz8-iMlMAvIbg/view?usp=sharing)
